@@ -1,1 +1,1 @@
-# feed.giihub-io
+# feed.github.io
